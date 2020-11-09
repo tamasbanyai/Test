@@ -46,7 +46,7 @@ a\. Ha a BIOS indítási sorrendje nincs beállítva a CD / DVD meghajtóról
 történő indításra, akkor a telepítés megkezdése előtt módosítani kell
 ezeket a beállításokat
 
-![](media/image1.png){width="5.906944444444444in"
+![](pictures/P1.png){width="5.906944444444444in"
 height="4.473611111111111in"}
 
 2\. Válasszuk ki a Nyelv, Idő és pénznem formátumot, valamint a
