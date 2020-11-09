@@ -54,13 +54,10 @@ Billentyűzet beviteli módot.
 3\. Kattintsumk a Tovább gombra.
 
 +----------------------------------+----------------------------------+
-| > ![Server%                      | > ![](media/image3.j             |
-| 202016%20Screenshots/A%20Install | peg){width="2.133079615048119in" |
-| /A%20Server%202016%20Install%20i | > height="1.2312489063867016in"} |
-| so%202%20Main.png](media/image2. | >                                |
+| > ![Server%                      | > ![](pictures/P2.png)                             |
 | png){width="4.734520997375328in" | > a\. Ezt az üzenetet fogjátok   |
-| > height="3.491874453193351in"}  | > látni "Setup is starting".     |
-| >                                |                                  |
+|  | > látni "Setup is starting".     |
+![](pictures/P3.png)                               |                                  |
 | > 4\. Kattintsunk az Install     |                                  |
 | > now-ra                         |                                  |
 +----------------------------------+----------------------------------+
