@@ -53,16 +53,11 @@ Billentyűzet beviteli módot.
 
 3\. Kattintsumk a Tovább gombra.
 
-+----------------------------------+----------------------------------+
-| > ![Server%                      | > ![](pictures/P2.png)                             |
-| png){width="4.734520997375328in" | > a\. Ezt az üzenetet fogjátok   |
-|  | > látni "Setup is starting".     |
-![](pictures/P3.png)                               |                                  |
-| > 4\. Kattintsunk az Install     |                                  |
-| > now-ra                         |                                  |
-+----------------------------------+----------------------------------+
+![](pictures/P2.png)                             
+a\. Ezt az üzenetet fogjátok látni "Setup is starting".     
+![](pictures/P3.png)                                                          
+4\. Kattintsunk az Install now-ra 
 
-+----------------------------------+----------------------------------+
 | > ![](media/image4.p             | > ![](media/image5.              |
 | ng){width="2.9831222659667542in" | png){width="3.276049868766404in" |
 | > height="2.458957786526684in"}  | > height="2.474374453193351in"}  |
