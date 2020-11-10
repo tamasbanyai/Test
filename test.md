@@ -1,3 +1,13 @@
+## Training
+
+| Material                                                             |                      Time |
+| :------------------------------------------------------------------- | ------------------------: |
+| [History of Windows](https://www.youtube.com/watch?v=ckboyrXSgH8) 
+
+
+
+
+
 Windows Server 2016 Install és Adminisztrációs segédlet
 
 Section 1: Installing Windows 2016 Server Software
