@@ -1,6 +1,5 @@
 # Windows Server 2016
 
-*
 
 ### Training
 
@@ -47,7 +46,7 @@ Legjobb gyakorlatok (Best Practicies)
 1. Kapcsolja be a rendszert, és helyezze be a telepítőlemezt
 a. Ha a BIOS indítási sorrendje nincs beállítva a CD / DVD meghajtóról történő indításra, akkor a telepítés megkezdése előtt módosítani kell ezeket a beállításokat
 
-
+![](folder/.png)
 
 
 2. Válasszuk ki a Nyelv, Idő és pénznem formátumot, valamint a Billentyűzet beviteli módot.
@@ -68,7 +67,7 @@ Ha a fenti Windows telepítő képernyőn a Számítógép javítása lehetősé
 iii. A témában érdemes átnézni az alábbi dokumentációkat:
 https://technet.microsoft.com/library/cc755163.aspx
 
-	Wbadmin Start sysrecovery: https://technet.microsoft.com/en- us/library/cc742118(v=ws.11).aspx
+Wbadmin Start sysrecovery: https://technet.microsoft.com/en-us/library/cc742118(v=ws.11).aspx
 
 
 ### Gyakorló feladatok, melyeket önállóan kell megoldani.
