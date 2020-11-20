@@ -1,76 +1,39 @@
-# Windows Server 2016
+# Windows Server 2016 install
 
+## Materials & Resources
 
-### Training
+- Before starting the materials do [this little exercise](before/java.md)
 
-| Material                                                                                                    |  Time |
-| :---------------------------------------------------------------------------------------------------------- | ----: |
-| [Install Windows Server 2016 ](https://www.youtube.com/watch?v=lgOlK9sgY08) | 19:30 |
+| Material                                                                                                            |  Time |
+| :------------------------------------------------------------------------------------------------------------------ | ----: |
+| [Youtube videok](https://www.youtube.com/watch?v=i2ghIckPZfE)                     | 14:06 |
+| [Youtube videok](https://www.youtube.com/watch?v=PHden2Po8YU)                    | 10:16 |
 
-## Ezeket fogjuk megtanulni
+## Optional materials
 
-- Windows Server telepítése
-- Alapvető funkciók használata
-- AD konfiguráció
-- DNS konfiguráció
-- DHCP konfiguráció
-- ResourceMonitor használata
--
+| Material                                                                                              |  Time |
+| :---------------------------------------------------------------------------------------------------- | ----: |
+| [Szöveges részek külön fájlba másolva](https://www.youtube.com/watch?v=FjgnIYMBhDA)                   | 11:43 |
+| [Internetes szöveges anyagok lineklve](https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html) |       |
 
+## Material Review
 
-### Windows Server 2016 telepítése
+- What is a package?
+  <!--
+    A package can be defined as a grouping of related classes providing access
+    protection and namespace management. Pretty much a directory with the
+    grouped class files.
+  -->
+- Why are we using packages?
+  <!--
+    Packages are used in Java in order to prevent naming conflicts, to control
+    access, to make searching/locating and usage easier of classes.
+  -->
+- What is inheritance?
+  
 
-Telepítés megkezdése előtt érdemes tanulmányozni
+## Workshop
 
-Windows Server 2016
-https://docs.microsoft.com/en-us/windows-server/windows-server-2016
-
-System Requirements for Windows 2016 Server
-https://docs.microsoft.com/en-us/windows-server/get-started/system-requirements
-
-Important Issues in Windows Server 2016
-https://docs.microsoft.com/en-us/windows-server/get-started/windows-server-2016-ga-release-notes
-
-
-Legjobb gyakorlatok (Best Practicies)
-
-•	Soha ne telepítsünk új rendszert a nyilvános hálózatra.
-•	Először indítsuk el a rendszert egy fejlesztői/teszt környezetben, majd utána helyezzük át az éles környezetbe.
-•	A patch-eket azonnal installáljuk a telelpítést követően
-•	Alkalmazzuk a biztonsági beállításokat a rendszerre.
-•	Tűzfal konfigurálása.
-•	Telepítsük és frissítsük a víruskereső szoftvert.
-•	Ellenőrizzük az összes beállítást.
-•	A rendszer frissítések előtt készítsünk teljes biztonsági másolatot!
- 
-1. Kapcsolja be a rendszert, és helyezze be a telepítőlemezt
-a. Ha a BIOS indítási sorrendje nincs beállítva a CD / DVD meghajtóról történő indításra, akkor a telepítés megkezdése előtt módosítani kell ezeket a beállításokat
-
-![](folder/.png)
-
-
-2. Válasszuk ki a Nyelv, Idő és pénznem formátumot, valamint a Billentyűzet beviteli módot.
-3. Kattintsumk a Tovább gombra.
- 
-
- 
-4. Kattintsunk az Install now-ra	 
-a. Ezt az üzenetet fogjátok látni “Setup is starting”.
-
-
- 	 
-
-b. Az iso telepítés a számítógép javításához is használható.
-Ha a fenti Windows telepítő képernyőn a Számítógép javítása lehetőséget választjuk, akkor a rendszer megkéri, hogy végezzük el a számítógép hibakeresését (Troubleshoot) vagy kikapcsolását (Turn off your PC)
-	ii. Ha a Hibaelhárítás (Troubleshoot) lehetőséget választjuk, vagy kereshet egy System Image fájlt a Windows helyreállításához, vagy elindíthat egy Parancssorot (Command Prompt).
-
-iii. A témában érdemes átnézni az alábbi dokumentációkat:
-https://technet.microsoft.com/library/cc755163.aspx
-
-Wbadmin Start sysrecovery: https://technet.microsoft.com/en-us/library/cc742118(v=ws.11).aspx
-
-
-### Gyakorló feladatok, melyeket önállóan kell megoldani.
-
-- Telepítsünk egy Virtualboxot
--Tölstük le a Windows Server 2016 valamelyik verzióját és telepítsük
+- [Green Fox Organization](green-fox/java.md)
+- [Garden Application](garden-app/README.md) *exam*
+- [Aircraft Carrier](aircraft-carrier/README.md)
