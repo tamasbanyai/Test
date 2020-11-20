@@ -8,13 +8,13 @@
 | :------------------------------------------------------------------------------------------------------------------ | ----: |
 | [Youtube videok](https://www.youtube.com/watch?v=i2ghIckPZfE)                     | 14:06 |
 | [Youtube videok](https://www.youtube.com/watch?v=PHden2Po8YU)                    | 10:16 |
+| [Szöveges részek külön fájlba másolva](https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html) | 
 
 ## Optional materials
 
 | Material                                                                                              |  Time |
 | :---------------------------------------------------------------------------------------------------- | ----: |
-| [Szöveges részek külön fájlba másolva](https://www.youtube.com/watch?v=FjgnIYMBhDA)                   | 11:43 |
-| [Internetes szöveges anyagok lineklve](https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html) |       |
+| [Internetes szöveges anyagok lineklve](https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html) |      
 
 ## Material Review
 
