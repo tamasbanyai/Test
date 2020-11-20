@@ -34,6 +34,7 @@
 
 ## Workshop
 
-- [Green Fox Organization](green-fox/java.md)
-- [Garden Application](garden-app/README.md) *exam*
-- [Aircraft Carrier](aircraft-carrier/README.md)
+- [Telepísünk fel egy Windows Server 2016 szervert](green-fox/java.md)
+- [Garden Application](garden-app/README.md)
+- Milyen porton kommunikál a DNS szerver?
+- Mi a Kerberos? 
