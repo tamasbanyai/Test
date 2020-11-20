@@ -2,7 +2,6 @@
 
 ## Materials & Resources
 
-- Before starting the materials do [this little exercise](before/java.md)
 
 | Material                                                                                                            |  Time |
 | :------------------------------------------------------------------------------------------------------------------ | ----: |
