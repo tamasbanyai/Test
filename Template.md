@@ -14,7 +14,7 @@
 
 | Material                                                                                              |  Time |
 | :---------------------------------------------------------------------------------------------------- | ----: |
-| [Internetes szöveges anyagok lineklve](https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html) |      
+| [Elolvasandó: 1 fejezet, 2 fejezet, 3 fejezet: 100-120 o.](https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html) |      
 
 ## Material Review
 
